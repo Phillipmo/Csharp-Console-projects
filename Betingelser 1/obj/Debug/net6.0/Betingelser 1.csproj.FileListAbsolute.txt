@@ -1,0 +1,15 @@
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\bin\Debug\net6.0\Betingelser 1.exe
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\bin\Debug\net6.0\Betingelser 1.deps.json
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\bin\Debug\net6.0\Betingelser 1.runtimeconfig.json
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\bin\Debug\net6.0\Betingelser 1.dll
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\bin\Debug\net6.0\ref\Betingelser 1.dll
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\bin\Debug\net6.0\Betingelser 1.pdb
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\obj\Debug\net6.0\Betingelser 1.csproj.AssemblyReference.cache
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\obj\Debug\net6.0\Betingelser 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\obj\Debug\net6.0\Betingelser 1.AssemblyInfoInputs.cache
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\obj\Debug\net6.0\Betingelser 1.AssemblyInfo.cs
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\obj\Debug\net6.0\Betingelser 1.csproj.CoreCompileInputs.cache
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\obj\Debug\net6.0\Betingelser 1.dll
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\obj\Debug\net6.0\ref\Betingelser 1.dll
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\obj\Debug\net6.0\Betingelser 1.pdb
+C:\Users\Phill\source\repos\Csharp-Console-projects\Betingelser 1\obj\Debug\net6.0\Betingelser 1.genruntimeconfig.cache

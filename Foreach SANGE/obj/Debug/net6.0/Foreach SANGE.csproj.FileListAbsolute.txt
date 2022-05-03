@@ -1,0 +1,14 @@
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\bin\Debug\net6.0\Foreach SANGE.exe
+C:\Users\Phill\Source\Repos\Csharp-Console-projects\Foreach SANGE\bin\Debug\net6.0\Foreach SANGE.deps.json
+C:\Users\Phill\Source\Repos\Csharp-Console-projects\Foreach SANGE\bin\Debug\net6.0\Foreach SANGE.runtimeconfig.json
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\bin\Debug\net6.0\Foreach SANGE.dll
+C:\Users\Phill\Source\Repos\Csharp-Console-projects\Foreach SANGE\bin\Debug\net6.0\ref\Foreach SANGE.dll
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\bin\Debug\net6.0\Foreach SANGE.pdb
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\obj\Debug\net6.0\Foreach SANGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\obj\Debug\net6.0\Foreach SANGE.AssemblyInfoInputs.cache
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\obj\Debug\net6.0\Foreach SANGE.AssemblyInfo.cs
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\obj\Debug\net6.0\Foreach SANGE.csproj.CoreCompileInputs.cache
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\obj\Debug\net6.0\Foreach SANGE.dll
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\obj\Debug\net6.0\ref\Foreach SANGE.dll
+C:\Users\Phill\source\repos\Csharp-Console-projects\Foreach SANGE\obj\Debug\net6.0\Foreach SANGE.pdb
+C:\Users\Phill\Source\Repos\Csharp-Console-projects\Foreach SANGE\obj\Debug\net6.0\Foreach SANGE.genruntimeconfig.cache
